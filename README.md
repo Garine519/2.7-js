@@ -13,10 +13,10 @@
 
 <p>Install dependencies:</p>
 <pre>
-  yarn
+  pnpm
 </pre>
 
 <p>Run Storybook:</p>
 <pre>
-  yarn storybook
+  pnpm storybook
 </pre>
